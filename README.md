@@ -1,1 +1,1 @@
-# SneakGame-CleanCode
+# SnakeGame-CleanCode
